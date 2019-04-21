@@ -1,5 +1,3 @@
-MURACH's Java programming 5th Edition Chapter 1 - book exercise
+#CreateVersionControlTest using IntelliJ IDEA
 
-Git/GitHub training exercise
-IntelliJ IDE - Added project to Git and GitHub
-Created .gitignore file for all IDEA configurations to .idea/ folder
+Add .gitignore files ignoring all IDEA setting files (misc.xml, modules.xml, vcs.xml, workspace.xml, etc) (group in .idea/ directory)
